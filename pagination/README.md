@@ -56,4 +56,4 @@ This project is part of the **Holberton School Web Back End** curriculum. Follow
 
 ## Author
 
-- Holberton School Student
+- Abdulrhman Alghamdi
