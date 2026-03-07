@@ -2,7 +2,6 @@
 """ 12-log_stats.py
 Display some stats about Nginx logs stored in MongoDB
 """
-
 from pymongo import MongoClient
 
 
