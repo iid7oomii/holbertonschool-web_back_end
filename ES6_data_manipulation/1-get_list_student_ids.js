@@ -6,7 +6,9 @@ export default function getListStudents() {
     { id: 5, firstName: 'Serena', location: 'San Francisco' }];
 }
 
-// return array of Ids from list
-const getListStudentIds = getListStudents.map((student) => student.id);
 
-console.log(getListStudentIds);
+function getListStudentIds(getListStudents) {
+  return getListStudents.map((student) => student.id);   
+}
+
+console.log(getListStudentIds(getListStudents()));
