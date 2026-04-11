@@ -38,3 +38,10 @@ coverage/
 dist/
 build/
 *.egg-info/
+
+# Poject files
+babel.config.js
+database.csv
+package.json
+package-lock.json
+.eslintrc.js
